@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Primeiro Repositorio Versionado vídeo aula.
+ Primeiro repositótio de vídeo aula.
