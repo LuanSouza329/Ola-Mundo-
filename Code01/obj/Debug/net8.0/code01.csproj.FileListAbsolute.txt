@@ -1,0 +1,15 @@
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\bin\Debug\net8.0\code01.exe
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\bin\Debug\net8.0\code01.deps.json
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\bin\Debug\net8.0\code01.runtimeconfig.json
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\bin\Debug\net8.0\code01.dll
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\bin\Debug\net8.0\code01.pdb
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.AssemblyInfoInputs.cache
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.AssemblyInfo.cs
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.csproj.CoreCompileInputs.cache
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.sourcelink.json
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.dll
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\refint\code01.dll
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.pdb
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\code01.genruntimeconfig.cache
+C:\Users\luans\OneDrive\Documentos\MeusProjetos\Ola-Mundo-\code01\obj\Debug\net8.0\ref\code01.dll
