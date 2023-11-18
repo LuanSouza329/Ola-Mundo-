@@ -1,10 +1,13 @@
 using System;
+using Code01;
 
 class Git
 {
-    static void Principal ()
+    static void Main ()
     {
-        Console.WriteLine("Olá, Mundo");
-        Console.WriteLine("Teste");
+      Pessoa pessoa = new Pessoa("Luan de souza", "123456789x");
+
+      Console.WriteLine(pessoa.Nome);
+      Console.WriteLine(pessoa.CPF);
     }
 }
