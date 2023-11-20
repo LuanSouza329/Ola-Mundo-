@@ -9,5 +9,7 @@ class Git
 
       Console.WriteLine(pessoa.Nome);
       Console.WriteLine(pessoa.CPF);
+
+      Console.WriteLine("Mais um teste");
     }
 }
